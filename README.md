@@ -3,11 +3,11 @@
 ## I'm Karoline Vieira <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
 
-:computer: I'm Back-End Developer from Brazil.
+:computer: Back-End Developer Jr. from Brazil.
 
-:books: I’m currently learning about everything.
+:books: Software Engineer student.
 
-:outbox_tray: 2022 Goals: create a new project and travel a lot.
+:outbox_tray: 2022 Goals: create new projects and travel a lot.
 
 
 
@@ -29,4 +29,4 @@
 
 - Thanks for visiting.
 
-- Enjoy it!! o/
+- Enjoy it!!! o/
